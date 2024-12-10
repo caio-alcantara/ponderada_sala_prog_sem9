@@ -3,8 +3,6 @@ Ponderada de programação da semana 09, módulo 04, onde o objetivo era listar 
 
 &emsp;A segurança em IoT (Internet das Coisas) é essencial para proteger dispositivos conectados e os dados que eles geram, transmitem e armazenam. Os principais desafios incluem a vulnerabilidade dos dispositivos, falta de padrões de segurança, ataques como DDoS e malware, e a complexidade de gerenciar redes heterogêneas.
 
-# Atividade de Cibersegurança no Projeto
-
 ## Tabela de Vulnerabilidades
 
 | **Vulnerabilidade**                           | **Grau de Impacto** | **Possível Ataque**                                                                                                       | **Responsável** |
@@ -18,9 +16,9 @@ Ponderada de programação da semana 09, módulo 04, onde o objetivo era listar 
 | Autenticação inexistente na dashboard         | Alto                | Acesso não autorizado e uso de phishing para captura de credenciais.                                                     | Mariana         |
 | APIs expostas                                 | Médio               | Acesso não autorizado ou deturpação de dados através de APIs sem autenticação adequada.                                   | Mariana         |
 | Possibilidade de desligar o dispositivo físico| Alto                | Desligamento manual do dispositivo, interrompendo o monitoramento da floresta.                                           | Mariella        |
-| Erro na coleta dos dados por causa maligna    | Baixo               | Manipulação de sensores para fornecer dados incorretos.                                                                  | Fidelis         |
-| Wi-Fi hard coded no código                    | Alto                | Rede invadida devido ao armazenamento de credenciais no código público.                                                  | Fidelis         |
-| Falta de criptografia nos dados               | Alto                | Captura de dados sensíveis transmitidos entre dispositivos ou armazenados localmente.                                     | Preto           |
+| Erro na coleta dos dados por causa maligna    | Baixo               | Manipulação de sensores para fornecer dados incorretos.                                                                  | Eduardo         |
+| Wi-Fi hard coded no código                    | Alto                | Rede invadida devido ao armazenamento de credenciais no código público.                                                  | Eduardo         |
+| Falta de criptografia nos dados               | Alto                | Captura de dados sensíveis transmitidos entre dispositivos ou armazenados localmente.                                     | João           |
 
 ## Plano de Ação para Correção das Vulnerabilidades
 
