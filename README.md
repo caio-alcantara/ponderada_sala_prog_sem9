@@ -20,7 +20,7 @@ Ponderada de programação da semana 09, módulo 04, onde o objetivo era listar 
 | Wi-Fi hard coded no código                    | Alto                | Rede invadida devido ao armazenamento de credenciais no código público.                                                  | Eduardo         |
 | Falta de criptografia nos dados               | Alto                | Captura de dados sensíveis transmitidos entre dispositivos ou armazenados localmente.                                     | João           |
 
-## Plano de Ação para Correção das Vulnerabilidades
+## Plano de Ação para Correção das Vulnerabilidades (escrito por Pablo Azevedo)
 
 1. **SQL Injection**  
    - Implementar validação e sanitização de dados recebidos utilizando frameworks específicos.
@@ -66,4 +66,5 @@ Ponderada de programação da semana 09, módulo 04, onde o objetivo era listar 
 - **Mariana**: Avaliação de problemas em APIs, autenticação e injeção de comandos.
 - **Mariella**: Identificação de riscos relacionados à manipulação física do dispositivo.
 - **Fidelis**: Relatos sobre coleta de dados maliciosos e credenciais Wi-Fi expostas.
-- **Preto**: Análise do impacto da ausência de criptografia nos dados transmitidos.
+- **João**: Análise do impacto da ausência de criptografia nos dados transmitidos.
+- **Pablo**: Plano de Ação para Correção das Vulnerabilidades
